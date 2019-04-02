@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">memegram</string>
     <string name="hintEmail">E-mail</string>
-    <string name="hintContraseña">Contraseña</string>
+    <string name="hintContrasena">Contraseña</string>
     <string name="btnIniciarSesion">Iniciar Sesión</string>
+    <string name="txtRegistrarse">Registrarse</string>
 </resources>
